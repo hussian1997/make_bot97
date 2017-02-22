@@ -106,7 +106,6 @@ do local _ = {
     "meke.me",
     "meke.uoser",
     "Repllly"
-     
   },
   help_text = "",
   help_text_realm = "",
